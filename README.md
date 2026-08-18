@@ -34,7 +34,7 @@ L1 技能集之外的进阶满血版技能，知识库更大、覆盖更全，�
 
 本技能集由小红书作者「Landscape规划科研播报(6940711730)」整理出品，感谢大家的厚爱与支持。
 
-<img src="local-file:///E:/WORKBUDDY001/landscape-research-skills-L1/assets/author-profile.jpg" alt="作者小红书主页" width="320">
+<img src="assets/author-profile.jpg" alt="作者小红书主页" width="320">
 
 **资料来源**：该 skill 的内容来自作者店铺内的文献笔记（覆盖 11 个细分领域、累计 2500 余篇文献的整理）以及作者下载的学位论文，经处理后沉淀为技能内的规则与框架。
 
@@ -61,7 +61,7 @@ L1 技能集之外的进阶满血版技能，知识库更大、覆盖更全，�
 - 城市韧性研究精选好文：<https://xhslink.com/m/3sb5vx3vCqs>
 - 城市生物多样性精选好文：<https://xhslink.com/m/8uQTjiznJNr>
 
-<img src="local-file:///E:/WORKBUDDY001/landscape-research-skills-L1/assets/author-qr.jpg" alt="小红书扫码关注" width="320">
+<img src="assets/author-qr.jpg" alt="小红书扫码关注" width="320">
 
 衷心感谢大家的支持，预祝各位顺利完成论文、找到自己的人生方向。
 
